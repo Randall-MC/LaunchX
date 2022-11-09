@@ -17,14 +17,14 @@ Nos permiten imaginar o pensar cómo será la aplicación sin tener que escribir
 
 Caso de uso
 Problemática
-Metodologias
+Metodologías
 EMpatizar - Publico objetivo
 Definir - definir usuario
 
 side map, historias de usuario
 
 herramientas
-plantillas figma, pexels (imagenes), behance (sacar inspiracion) o drible, dafont (fuentes)
+plantillas figma, pexels (imágenes), behance (sacar inspiración) o drible, dafont (fuentes)
 
 Se plantea el problema, pensar quien va a ser nuestro usuario (edad, sexo, estatus socioeconómico)
 
