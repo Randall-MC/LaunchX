@@ -81,3 +81,28 @@ Cliente es la persona que nos va a dar los requerimientos, puede ser un cliente 
 
 - El Buyer persona es tu cliente ideal, quien es esa persona especifica que te va a comprar
 - El publico objetivo es si tu tuvieras que lanzar tu producto a una multitud de personas, esa multitud de personas que características tiene en común.
+
+---
+
+## Práctica 1
+
+### Buyer Persona
+
+Es el perfil ficticio del cliente ideal. Permite captar a un mayor número de clientes potenciales más fáciles de convertir debido a sus características y hábitos de consumo. Se trata de identificar las necesidades de los consumidores y ofrecer soluciones.
+
+### Plantilla
+
+- Situación personal y laboral (cual es su empleo).
+- Información demográfica (edad, ingresos, sexo).
+- Identificadores (personalidad y diferentes características)
+- Objetivos (cuales son sus metas que persigue alcanzar)
+- Desafíos (problemas que enfrenta)
+- Soluciones la empresa ofrece (como ayudarle a solventar sus desafíos)
+- Preocupaciones (preocupaciones que le generan resistencia al cambio)
+- Comentarios (información extra que se considere relevante en el comportamiento de la persona)
+
+---
+
+## Referencias
+
+<https://economipedia.com/definiciones/buyer-persona.html>
